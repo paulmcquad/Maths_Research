@@ -1,4 +1,20 @@
-# Pre-Algebra
+# [Pre Algebra](https://en.wikipedia.org/wiki/Pre-algebra)
+
+## Pre Algebra has the subjects:
+- Review of natural number arithmetic
+- New types of numbers such as integers, fractions, decimals and negative numbers.
+- Ratios and percents
+- Factorization of natural numbers
+- Properties of operations such as associativity and distributivity
+- Simple (integer) roots and powers
+- Rules of evaluation of expressions, such as operator precedence and use of parentheses
+- Basics of equations, including rules for invariant manipulation of equations
+- Understanding of variable manipulation
+- Manipulation and plotting in the standard 4-quadrant Cartesian coordinate plane
+- Powers in scientific notation (Ex: 34 × 10^7 in scientific notation is 3.4×10^8)
+- Identifying Probability
+- Solving Square roots
+- Pythagorean Theorem
 ### MODULE/SYLLABUS CONTENT
 
 ### Book 1
