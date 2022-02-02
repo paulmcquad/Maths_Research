@@ -1,12 +1,19 @@
 # Pre-Algebra
-
-<!-- 
- ### Learning Outcomes:
--->
 ### MODULE/SYLLABUS CONTENT
 
-
-### BIBLIOGRAPHY
+| **Topics** | **Book** | **Chapter** |
+|---|---|---|
+| **Whole Numbers** Add/Subtract/Multiply/Divide | Prealgebra | 1 |
+| **Language of Algebra** Evaluate, Simplify, and Translate Expressions/Solving Equations | Prealgebra | 2 |
+| **Integers** Add/Subtract/Multiply/Divide / Solving Equations using integers | Prealgebra | 3 |
+| **Fractions** Add/Subtract/Multiply/Divide / Solving Equations with Fractions | Prealgebra | 4 |
+| **Decimals** Averages and Probability / Ratios and Rate / Solving Equations with Decimals | Prealgebra | 5 |
+| **Percents** Solve Sales Tax / Solve Proportions and their Applications | Prealgebra | 6 |
+| **Real Numbers** Rational and Irrational / Commutative and Associative | Prealgebra | 7 |
+| **Linear Equations** Add/Subtract/Multiply/Divide Equalities | Prealgebra | 8 |
+| **Models and Geometry** Angles, Triangles, Trapezoids, Circles, Volume and Pythagorean Theorem | Prealgebra | 9 |
+| **Polynomials** Add/Subtract/Multiply/Divide / Factoring Polynomials | Prealgebra | 10 |
+| **Graphs** Cartesian coordinate system / Slope of a line | Prealgebra | 11 |### BIBLIOGRAPHY
 
 Recommended Reading:
 
