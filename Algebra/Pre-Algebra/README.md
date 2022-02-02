@@ -1,6 +1,22 @@
 # Pre-Algebra
 ### MODULE/SYLLABUS CONTENT
 
+### Book 1
+
+| **Topics** | **Book** | **Chapter** |
+|---|---|---|
+| **Exponents** | Painless Pre-Algebra | 1 |
+| **Solving Equations** | Painless Pre-Algebra | 2 |
+| **Linear Equations** | Painless Pre-Algebra | 3 |
+| **Systems of Equations** | Painless Pre-Algebra | 4 |
+| **Introduction to Functions** | Painless Pre-Algebra | 5 |
+| **Triangles and Angles** | Painless Pre-Algebra | 6 |
+| **Transformations** | Painless Pre-Algebra | 7 |
+| **Real Number System** | Painless Pre-Algebra | 8 |
+| **Geometry** | Painless Pre-Algebra | 9 |
+| **Introduction to Bivariate Statistics** | Painless Pre-Algebra | 10 |
+### Book 2
+
 | **Topics** | **Book** | **Chapter** |
 |---|---|---|
 | **Whole Numbers** Add/Subtract/Multiply/Divide | Prealgebra | 1 |
