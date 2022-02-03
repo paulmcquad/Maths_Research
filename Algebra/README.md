@@ -11,3 +11,4 @@
 | [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra) is the branch of mathematics concerning linear equations and linear maps. |
 | [Polynomial](https://en.wikipedia.org/wiki/Polynomial) is an expression consisting of indeterminates (also called variables) and coefficients, that involves only the operations of addition, subtraction, multiplication, and non-negative integer exponentiation of variables. |
 | [Quadratic form](https://en.wikipedia.org/wiki/Quadratic_form) is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). |
+| [Galois Theory](https://en.wikipedia.org/wiki/Galois_theory) allows reducing certain problems in field theory to group theory, which makes them simpler and easier to understand. |
