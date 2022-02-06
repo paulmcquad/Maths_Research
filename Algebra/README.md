@@ -12,3 +12,12 @@ is a branch of mathematics dealing with symbols and the rules for manipulating t
 | [Polynomial](https://en.wikipedia.org/wiki/Polynomial) is an expression consisting of indeterminates (also called variables) and coefficients, that involves only the operations of addition, subtraction, multiplication, and non-negative integer exponentiation of variables. |
 | [Quadratic form](https://en.wikipedia.org/wiki/Quadratic_form) is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). |
 | [Galois Theory](https://en.wikipedia.org/wiki/Galois_theory) allows reducing certain problems in field theory to group theory, which makes them simpler and easier to understand. |
+### MODULE/SYLLABUS CONTENT
+
+Recommended Reading:
+
+| **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
+|---|---|---|---|---|
+| College Algebra | 10th | Michael Sullivan |  978-0321979476 | 2014 |
+| College Algebra | 7th |  Robert Blitzer | 978-0134469164 | 2017 |
+| A Graphical Approach to Algebra and Trigonometry | 6th | Hornsby, Lial, Rockswold | 978-0321927330 | 2014 |
