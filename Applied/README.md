@@ -8,3 +8,5 @@ Recommended Reading:
 
 | **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
 |---|---|---|---|---|
+|  Mathematical statistics with applications  | 7th | Wackerly, Mendenhall, Scheaffer| 978-0495110811 | 2008 |
+| A First Course in Probability| 10th | Sheldon Ross |  978-0134753119 | 2018 |  
