@@ -1,7 +1,7 @@
 # [Algebra](https://en.wikipedia.org/wiki/Algebra)
+is a branch of mathematics dealing with symbols and the rules for manipulating those symbols.
 
-
-| [Algebra](https://en.wikipedia.org/wiki/Algebra) is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. |
+| [Algebra](https://en.wikipedia.org/wiki/Algebra) |
 |---|
 | [Pre Algebra](https://en.wikipedia.org/wiki/Pre-algebra) is to prepare students for the study of algebra. Usually algebra is taught in the 8th and 9th grade. |
 | [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. |
