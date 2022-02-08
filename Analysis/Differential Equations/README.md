@@ -7,5 +7,6 @@ Recommended Reading:
 
 | **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
 |---|---|---|---|---|
+|Handbook of Ordinary Differential Equations: Exact Solutions, Methods, and Problems | 3rd | Polyanin, Zaitsev | 978-1466569379 | 2018 |
 |A First Course in Differential Equations with Modeling Applications | 11th | Zill |978-1305965720 | 2017 |
 | An Introduction to Ordinary Differential Equations | 1st | Robinson | 978-0521826501 | 2004 |
