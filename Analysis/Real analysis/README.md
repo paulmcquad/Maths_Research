@@ -10,3 +10,5 @@ Recommended Reading:
 
 | **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
 |---|---|---|---|---|
+| Real Analysis | 4th | Royden, Fitzpatrick | 978-0131437470 | 2010 |
+| Real and complex analysis | 3rd | Walter Rudin | 978-0071002769 | 1987 |
