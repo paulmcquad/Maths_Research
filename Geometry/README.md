@@ -8,3 +8,4 @@ Recommended Reading:
 
 | **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
 |---|---|---|---|---|
+| Geometry | 1st | Jurgensen Brown | 978-0395977279 | 2000 |

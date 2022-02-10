@@ -13,3 +13,4 @@ Recommended Reading:
 |Advanced Calculus | 2nd |  Patrick M. Fitzpatrick | 978-0821847916 | 2009 |
 |Calculus | 4th |  Michael Spivak | 978-0914098911 | 2008 |
 | Elementary Analysis: The Theory of Calculus | 2nd | Kenneth A. Ross | 978-1461462705 | 2013 |
+| Calculus Made Easy | 1st | Thompson, Gardner | 978-0312185480 | 1998 |
