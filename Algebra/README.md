@@ -14,6 +14,30 @@ is a branch of mathematics dealing with symbols and the rules for manipulating t
 | [Galois Theory](https://en.wikipedia.org/wiki/Galois_theory) allows reducing certain problems in field theory to group theory, which makes them simpler and easier to understand. |
 ### MODULE/SYLLABUS CONTENT
 
+| **No.** | **Topic** |
+|---|---|
+| 1 | Equations & Inequalities |
+| 2 | Graphs |
+| 3 | Functions & Their Graphs |
+| 4 | Linear & Quadratic Functions |
+| 5 | Polynomial & Rational Functions |
+| 6 | Power & Root Functions |
+| 7 | Inverse, Exponential & Logarithmic Functions |
+| 8 | Trigonometric Functions |
+| 9 | Analytic Trigonometry |
+| 10 | Analytic Geometry & Nonlinear Systems |
+| 11 | Systems of Equations & Inequalities |
+| 12 | Linear Systems, Matrices & Determinants |
+| 13 | Conic Sections |
+| 14 | Induction & Binomial Theorem |
+| 15 | Sequences, Series, Counting & Probability |
+| 16 | Trigonometric Functions & Applications |
+| 17 | Trigonometric Identities & Equations |
+| 18 | Applications of Trigonometry & Vectors |
+| 19 | Further Topics in Algebra |
+| 20 | Further Topics in Trigonometry |
+| 21 | Further Topics in Analytic Geometry |
+
 Recommended Reading:
 
 | **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
