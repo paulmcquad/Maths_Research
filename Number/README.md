@@ -7,3 +7,6 @@ Recommended Reading:
 
 | **Name** | **Edition** | **Author** | **ISBN-13** / **ASIN** | **Year** |
 |---|---|---|---|---|
+| Number Theory | 6th | Robert P. Masse | 978-1737915898| 2022|
+| Elementary Introduction to Number Theory | 1st | Calvin T. Long | N/A | 1965 |
+| Elementary Number Theory  | 1st | Effinger, Mullen | 978-1032044187 | 2021 |
