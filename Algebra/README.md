@@ -46,3 +46,4 @@ Recommended Reading:
 | College Algebra | 7th |  Robert Blitzer | 978-0134469164 | 2017 |
 | A Graphical Approach to Algebra and Trigonometry | 6th | Hornsby, Lial, Rockswold | 978-0321927330 | 2014 |
 | Algebra | 2nd |  Michael Artin  | 978-0132413770 | 2010 |
+| Algebra and Trigonometry | 7th | Ron Larson | 978-1305071735 | 2016 |
